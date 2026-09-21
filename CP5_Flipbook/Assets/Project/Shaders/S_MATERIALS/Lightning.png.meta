@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 710021f4475f97947a0023f1efd84cee
+guid: cdae0da66f318e44d9fd1574b49905f6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_0
+      name: Lightning_0
       rect:
         serializedVersion: 2
         x: 0
@@ -138,14 +138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2074e8b662b719049a129b33f858ee26
-      internalID: 1037064046
+      spriteID: 453a86c8570fb0b43a103245753b69df
+      internalID: -90423919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_1
+      name: Lightning_1
       rect:
         serializedVersion: 2
         x: 443
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6dca76191d314634cad692f4cbe86b51
-      internalID: 1594752543
+      spriteID: 19e8c86e169fd204b85d608f896abdcf
+      internalID: -1178523837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_2
+      name: Lightning_2
       rect:
         serializedVersion: 2
         x: 886
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81ab6a82b82305948adbd9c161ced6b5
-      internalID: 1535007909
+      spriteID: 8ad303546c0ceec4d9cf29208a026c3c
+      internalID: 647835207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_3
+      name: Lightning_3
       rect:
         serializedVersion: 2
         x: 1329
@@ -204,14 +204,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e17b000c39a9bd7448b697c55f22e368
-      internalID: 14835300
+      spriteID: 4f062eee2a35d824783a0132db6aec33
+      internalID: -698432056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_4
+      name: Lightning_4
       rect:
         serializedVersion: 2
         x: 0
@@ -226,14 +226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c74291729b0589e48b9be42e70709321
-      internalID: 1057048626
+      spriteID: 129a40bfdac40bd4ababdf882b416d0e
+      internalID: 1703054656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_5
+      name: Lightning_5
       rect:
         serializedVersion: 2
         x: 443
@@ -248,14 +248,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d59cf457f924994a968496d38930783
-      internalID: -1148593433
+      spriteID: 0064858efd060e54f9d5f5f10e6e2d17
+      internalID: -1398793924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_6
+      name: Lightning_6
       rect:
         serializedVersion: 2
         x: 886
@@ -270,14 +270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 651691763f15d244db473c3ad1d26bba
-      internalID: -1905633159
+      spriteID: d2cd239af8b6aad4ebb14f4c87cce059
+      internalID: 940041992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_7
+      name: Lightning_7
       rect:
         serializedVersion: 2
         x: 1329
@@ -292,14 +292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3a2e71f9b399be488b1087b3c5402ec
-      internalID: 1370021542
+      spriteID: a9ba8a727601ea5439ee6d956ca279de
+      internalID: 915258748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_8
+      name: Lightning_8
       rect:
         serializedVersion: 2
         x: 0
@@ -314,14 +314,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91006cbc416cb8540806d3a70a65da3a
-      internalID: -352472615
+      spriteID: eaf63eb895773a347a82f9e09c75a757
+      internalID: -1838449443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_9
+      name: Lightning_9
       rect:
         serializedVersion: 2
         x: 443
@@ -336,14 +336,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 492559efdc7ed2c4087485e2a4692aba
-      internalID: -1256003333
+      spriteID: fe4e6206f58e5854988971fbaa58b2a5
+      internalID: 957881003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_10
+      name: Lightning_10
       rect:
         serializedVersion: 2
         x: 886
@@ -358,14 +358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b5dd26d8ce2cfa40b3ef3860c5eba68
-      internalID: -1554726240
+      spriteID: 259791920e5bc074c8e3a08708eced3f
+      internalID: 831687158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_11
+      name: Lightning_11
       rect:
         serializedVersion: 2
         x: 1329
@@ -380,14 +380,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e6d2036bd68ab643b01b56a62bfbb55
-      internalID: -2072161519
+      spriteID: c26f9fe0d98668b448074640727f7493
+      internalID: 1434671538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_12
+      name: Lightning_12
       rect:
         serializedVersion: 2
         x: 0
@@ -402,14 +402,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e41cb89b3174bc438e70e6e5ac19b22
-      internalID: 389969481
+      spriteID: 071b74f316bab8f4391be81e6331bad3
+      internalID: 1016803072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_13
+      name: Lightning_13
       rect:
         serializedVersion: 2
         x: 443
@@ -424,14 +424,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf2f19d9cb2e200429f6abad137c1880
-      internalID: 1838452864
+      spriteID: 39d7b96e80bf72c43baee21a0168ab4a
+      internalID: 1976861648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_14
+      name: Lightning_14
       rect:
         serializedVersion: 2
         x: 886
@@ -446,14 +446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b962153fdabc734c854839ef532d1d3
-      internalID: -1319573018
+      spriteID: 5b1329b4daf4098468062265353177c2
+      internalID: 1901801649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ChatGPT Image 20 de set. de 2026, 13_30_28_15
+      name: Lightning_15
       rect:
         serializedVersion: 2
         x: 1329
@@ -468,8 +468,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06780f8242ab9904eb59bb73b759319d
-      internalID: 61216441
+      spriteID: a8412ff4404e9354ebfce84dd71b9755
+      internalID: 523986253
       vertices: []
       indices: 
       edges: []
@@ -478,7 +478,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 164ebccc32e1d874b98362bb5c310678
+    spriteID: a5f54c637f1340245b6d4d523b3df68a
     internalID: 0
     vertices: []
     indices: 
@@ -490,22 +490,22 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":443.0,"y":221.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      ChatGPT Image 20 de set. de 2026, 13_30_28_0: 1037064046
-      ChatGPT Image 20 de set. de 2026, 13_30_28_1: 1594752543
-      ChatGPT Image 20 de set. de 2026, 13_30_28_10: -1554726240
-      ChatGPT Image 20 de set. de 2026, 13_30_28_11: -2072161519
-      ChatGPT Image 20 de set. de 2026, 13_30_28_12: 389969481
-      ChatGPT Image 20 de set. de 2026, 13_30_28_13: 1838452864
-      ChatGPT Image 20 de set. de 2026, 13_30_28_14: -1319573018
-      ChatGPT Image 20 de set. de 2026, 13_30_28_15: 61216441
-      ChatGPT Image 20 de set. de 2026, 13_30_28_2: 1535007909
-      ChatGPT Image 20 de set. de 2026, 13_30_28_3: 14835300
-      ChatGPT Image 20 de set. de 2026, 13_30_28_4: 1057048626
-      ChatGPT Image 20 de set. de 2026, 13_30_28_5: -1148593433
-      ChatGPT Image 20 de set. de 2026, 13_30_28_6: -1905633159
-      ChatGPT Image 20 de set. de 2026, 13_30_28_7: 1370021542
-      ChatGPT Image 20 de set. de 2026, 13_30_28_8: -352472615
-      ChatGPT Image 20 de set. de 2026, 13_30_28_9: -1256003333
+      Lightning_0: -90423919
+      Lightning_1: -1178523837
+      Lightning_10: 831687158
+      Lightning_11: 1434671538
+      Lightning_12: 1016803072
+      Lightning_13: 1976861648
+      Lightning_14: 1901801649
+      Lightning_15: 523986253
+      Lightning_2: 647835207
+      Lightning_3: -698432056
+      Lightning_4: 1703054656
+      Lightning_5: -1398793924
+      Lightning_6: 940041992
+      Lightning_7: 915258748
+      Lightning_8: -1838449443
+      Lightning_9: 957881003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
