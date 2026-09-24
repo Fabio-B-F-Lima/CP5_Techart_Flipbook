@@ -48,9 +48,7 @@ public class LightningController : MonoBehaviour
     // Raio atinge a espada
     public void PlayLightning()
     {
-        lightningParticle.Stop(
-            true,
-            ParticleSystemStopBehavior.StopEmittingAndClear
+        lightningParticle.Stop(true,ParticleSystemStopBehavior.StopEmittingAndClear
         );
 
         lightningParticle.Play();
